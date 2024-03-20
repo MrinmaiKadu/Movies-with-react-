@@ -24,7 +24,12 @@ const navListData = [
         name: `blog`,
         active: false,
     },
-
+  {
+        _id: 5,
+        link: "#contact",
+        name: `Contact`,
+        active: false,
+    },
 ]
 
 export default navListData;
